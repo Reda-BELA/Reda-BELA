@@ -4,17 +4,17 @@
 
 - I'm Currently Learning :
 
-☕️ Java : For Discord Bot and Minecraft Mods
-🍵 JavaScript : Again for Discord Bot (I use Node.js) and Web Development
-🧃 TypeScript : AGAIN for Discord Bot (Just Experimenting Different Way)
-🎂 HTML : For Web Development
-🍣 CSS : For Web Development
-🍡 C# : For Unity! I try to make my own game! but i need time...
+- ☕️ Java : For Discord Bot and Minecraft Mods
+- 🍵 JavaScript : Again for Discord Bot (I use Node.js) and Web Development
+- 🧃 TypeScript : AGAIN for Discord Bot (Just Experimenting Different Way)
+- 🎂 HTML : For Web Development
+- 🍣 CSS : For Web Development
+- 🍡 C# : For Unity! I try to make my own game! but i need time...
 
 ## Contact Me :
 
-https://twitter.com/BelalMohammedR1
-Discord : Reda#2185
+- https://twitter.com/BelalMohammedR1
+- Discord : Reda#2185
 
 Bye!
 

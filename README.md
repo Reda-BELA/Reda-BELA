@@ -19,7 +19,7 @@ Nothing Else :D
 # My Projects :
 
 - 🦌 Heroes United-DC Comics : My Minecraft Mod about Superheroes Using Forge API
-- 🦝 Casino-Bot : An fast Discord Bot.
+- 🦝 Casino-Bot : A fast Discord Bot.
 - 🐉 Casino-Website : The Website of my Bot!
 - 💫 ProjectParis : My Video-Game! It's still early in development but it's started :)
 

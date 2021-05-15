@@ -1,5 +1,10 @@
 ### Hello! I'm Reda 👋
 
+I'm 14 year old 🧑🏽
+I'm French 🇫🇷
+
+Nothing Else :D
+
 ## I'm a Beginner at Programming!
 
 - I'm Currently Learning :
@@ -10,6 +15,13 @@
 - 🎂 HTML : For Web Development
 - 🍣 CSS : For Web Development
 - 🍡 C# : For Unity! I try to make my own game! but i need time...
+
+# My Projects :
+
+- 🦌 Heroes United-DC Comics : My Minecraft Mod about Superheroes Using Forge API
+- 🦝 Casino-Bot : An fast Discord Bot.
+- 🐉 Casino-Website : The Website of my Bot!
+- 💫 ProjectParis : My Video-Game! It's still early in development but it's started :)
 
 ## Contact Me :
 

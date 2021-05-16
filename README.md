@@ -37,6 +37,7 @@ Bye!
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Reda's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=RedaBELA&show_icons=true&hide_border=truee&theme=dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Reda-BELA&count_private=true&show_icons=true&theme=dark" />
+
 
 </details>
